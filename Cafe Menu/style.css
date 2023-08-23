@@ -1,0 +1,63 @@
+body{
+    background-image: url(madgrill.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+.menu{
+    background-image:url(food.jpg);
+    background-size: cover;
+    width: 80%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+h1,p,h2{
+    color: rgb(221, 221, 221);
+    text-align: center;
+    
+
+}
+.established{
+    font-style: italic;
+}
+h1,h2{
+    font-family: IMPACT,serif;
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-family: serif;
+}
+.flavor{
+    text-align: left;
+    width: 75%
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(160, 235, 182);
+}
+hr{
+    height: 2px;
+    border-color: white;
+    background-color: white;
+}
+footer{
+    margin-top: 40px;
+    font-size: 14px;
+}
+address p{
+    color: rgb(255, 255, 255);
+}
