@@ -1,0 +1,62 @@
+body{
+    background-color: purple;
+    color: white;
+    text-align:center;
+    font-family: tahoma;
+    font-size:20px;
+  
+  }
+  section{
+    background-color:#34013f ;
+    margin-top:20px;
+    margin-left:30%;
+    margin-right:30%;
+    padding:10px;
+  
+  
+  }
+  fieldset{
+    border:none;
+  }
+  input{
+    margin: 1em auto;
+    display:block;
+    width: 100%;
+    height:3em;
+  }
+  label{
+    display: block;
+    margin: 0.5rem 0;
+    text-align:left;
+  }
+  select{
+    display:block;
+    margin-top:10px;
+    width:100%;
+    min-height:3em;
+  }
+  .inline{
+    display:inline;
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+  textarea{
+    margin: 1em auto;
+    display:block;
+    width: 100%;
+    font-size: 20
+  }
+  input[type="submit"]{
+    background-color: lightgreen;
+    display:block;
+    width:96%;
+    margin: 1em auto;
+    height: 3em;
+    font-size:1.1rem;
+    border:none;
+  
+  }
+  p{
+    margin-top:-10px;
+  }
